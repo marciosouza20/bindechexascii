@@ -1,3 +1,9 @@
+bindechexascii (0.0+20140524.git7dcd86-1~bpo70+1) wheezy-backports; urgency=medium
+
+  * Rebuild for wheezy-backports.
+
+ -- Marcio de Souza Olivera <m.desouza20@gmail.com>  Wed, 02 Jul 2014 21:38:07 -0300
+
 bindechexascii (0.0+20140524.git7dcd86-1) unstable; urgency=low
 
   * Initial release (Closes: #749099)
