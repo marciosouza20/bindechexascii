@@ -1,12 +1,12 @@
 Source: bindechexascii
 Section: math
 Priority: optional
-Maintainer: Marcio de Souza Olivera <m.desouza20@gmail.com>
+Maintainer: Marcio de Souza Oliveira <m.desouza20@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.8
 Homepage: https://github.com/xfuw89/BinDecHexAscii
 Vcs-Browser: https://github.com/marciosouza20/bindechexascii.git
-Vcs-Git: git://github.com/marciosouza20/bindechexascii.git
+Vcs-Git: https://github.com/marciosouza20/bindechexascii.git
 
 Package: bindechexascii
 Architecture: any

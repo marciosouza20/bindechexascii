@@ -1,8 +1,24 @@
-bindechexascii (0.0+20140524.git7dcd86-1~bpo70+1) wheezy-backports; urgency=medium
+bindechexascii (0.0+20140524.git7dcd86-4) unstable; urgency=medium
 
-  * Rebuild for wheezy-backports.
+  * debian/control:
+      - Bumped Standards-Version to 3.9.8.
+      - Updated Vcs-Git field to use https.
+  * debian/rules:
+      - Enabled hardening options.
 
- -- Marcio de Souza Olivera <m.desouza20@gmail.com>  Wed, 02 Jul 2014 21:38:07 -0300
+ -- Marcio de Souza Oliveira <m.desouza20@gmail.com>  Sat, 20 Aug 2016 00:22:27 +0000
+
+bindechexascii (0.0+20140524.git7dcd86-3) unstable; urgency=medium
+
+  * Bumped Standards-Version to 3.9.6.
+
+ -- Marcio de Souza Oliveira <m.desouza20@gmail.com>  Mon, 23 Nov 2015 21:02:14 -0200
+
+bindechexascii (0.0+20140524.git7dcd86-2) unstable; urgency=medium
+
+  * Fixed name of the maintainer.
+
+ -- Marcio de Souza Oliveira <m.desouza20@gmail.com>  Sun, 28 Sep 2014 20:42:30 -0300
 
 bindechexascii (0.0+20140524.git7dcd86-1) unstable; urgency=low
 
